@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <MASM Include="Plantilla_ProgramaMASM.asm" />
+    <MASM Include="P_1_WriteChar.asm" />
+    <MASM Include="P_2_ReadChar.asm" />
+    <MASM Include="P_3_RandomRange.asm" />
+    <MASM Include="P_4_Loop.asm" />
+    <MASM Include="P_5_Randomize.asm" />
+    <MASM Include="P_6_WaitMSG.asm" />
+    <MASM Include="P_7_Delay.asm" />
+    <MASM Include="P_8_Loop2.asm" />
+    <MASM Include="P_9_IntroMacro.asm" />
+    <MASM Include="P_10_Suma2Nums.asm" />
+    <MASM Include="P_11_ReadString.asm" />
+    <MASM Include="E_1_MiNombre.asm" />
+    <MASM Include="P_12_Nombres.asm" />
+    <MASM Include="P_13_MsgBox.asm" />
+    <MASM Include="P_14_MsgBoxV2.asm" />
+    <MASM Include="P_15_MsgBoxAsk.asm" />
+    <MASM Include="P_16_SumaConProc.asm" />
+    <MASM Include="E_3_ElNaufrago_.asm" />
+    <MASM Include="E_4_Consultorio_.asm" />
+    <MASM Include="E_5_Banco_.asm" />
+    <MASM Include="P_17_PromedioM_Salones_.asm" />
+    <MASM Include="E_12_Ahorro_.asm" />
+    <MASM Include="E_10_AlumnosPasajes_.asm" />
+    <MASM Include="E_9_BonoAntiguedad_.asm" />
+    <MASM Include="E_14_Empresa_.asm" />
+    <MASM Include="E_17_ElNaufrago2_.asm" />
+    <MASM Include="E_11_Compras_.asm" />
+    <MASM Include="E_7_BonoMensual_.asm" />
+    <MASM Include="E_6_Becas_.asm" />
+    <MASM Include="E_2_PromedioAlumnos_.asm" />
+    <MASM Include="E_18_Focos_.asm" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="..\..\..\..\..\..\Irvine\Lib32\Irvine32_Library\Irvine32.obj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Macros.inc" />
+  </ItemGroup>
+</Project>
