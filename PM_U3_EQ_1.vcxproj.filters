@@ -33,6 +33,8 @@
     <MASM Include="E_6_Becas_.asm" />
     <MASM Include="E_2_PromedioAlumnos_.asm" />
     <MASM Include="E_18_Focos_.asm" />
+    <MASM Include="E_13_N_Cantidades_.asm" />
+    <MASM Include="E_16_Profesor_.asm" />
   </ItemGroup>
   <ItemGroup>
     <Object Include="..\..\..\..\..\..\Irvine\Lib32\Irvine32_Library\Irvine32.obj" />

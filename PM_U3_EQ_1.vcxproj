@@ -81,7 +81,7 @@
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <EntryPointSymbol>mainE17</EntryPointSymbol>
+      <EntryPointSymbol>mainE10</EntryPointSymbol>
       <ImportLibrary>c:/Irvine</ImportLibrary>
     </Link>
     <MASM>
@@ -134,10 +134,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <MASM Include="E_13_N_Cantidades_.asm" />
     <MASM Include="E_14_Empresa_.asm" />
     <MASM Include="E_10_AlumnosPasajes_.asm" />
     <MASM Include="E_12_Ahorro_.asm" />
     <MASM Include="E_11_Compras_.asm" />
+    <MASM Include="E_16_Profesor_.asm" />
     <MASM Include="E_2_PromedioAlumnos_.asm" />
     <MASM Include="E_17_ElNaufrago2_.asm" />
     <MASM Include="E_1_MiNombre.asm" />

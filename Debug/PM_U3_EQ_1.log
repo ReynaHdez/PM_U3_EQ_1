@@ -1,7 +1,9 @@
-﻿  Assembling E_14_Empresa_.asm...
+﻿  Assembling E_13_N_Cantidades_.asm...
+  Assembling E_14_Empresa_.asm...
   Assembling E_10_AlumnosPasajes_.asm...
   Assembling E_12_Ahorro_.asm...
   Assembling E_11_Compras_.asm...
+  Assembling E_16_Profesor_.asm...
   Assembling E_2_PromedioAlumnos_.asm...
   Assembling E_17_ElNaufrago2_.asm...
   Assembling E_1_MiNombre.asm...
@@ -30,36 +32,38 @@
   Assembling P_7_Delay.asm...
   Assembling P_8_Loop2.asm...
   Assembling P_9_IntroMacro.asm...
-E_14_Empresa_.obj : warning LNK4258: la directiva '/ENTRY:mainE14@0' no es compatible con el modificador '/ENTRY:mainE17'; se ha omitido
-E_10_AlumnosPasajes_.obj : warning LNK4258: la directiva '/ENTRY:mainE10@0' no es compatible con el modificador '/ENTRY:mainE17'; se ha omitido
-E_12_Ahorro_.obj : warning LNK4258: la directiva '/ENTRY:mainE12@0' no es compatible con el modificador '/ENTRY:mainE17'; se ha omitido
-E_11_Compras_.obj : warning LNK4258: la directiva '/ENTRY:mainE11@0' no es compatible con el modificador '/ENTRY:mainE17'; se ha omitido
-E_2_PromedioAlumnos_.obj : warning LNK4258: la directiva '/ENTRY:mainE2@0' no es compatible con el modificador '/ENTRY:mainE17'; se ha omitido
-E_17_ElNaufrago2_.obj : warning LNK4258: la directiva '/ENTRY:mainE17@0' no es compatible con el modificador '/ENTRY:mainE17'; se ha omitido
-E_1_MiNombre.obj : warning LNK4258: la directiva '/ENTRY:mainE1@0' no es compatible con el modificador '/ENTRY:mainE17'; se ha omitido
-E_3_ElNaufrago_.obj : warning LNK4258: la directiva '/ENTRY:mainE3@0' no es compatible con el modificador '/ENTRY:mainE17'; se ha omitido
-E_4_Consultorio_.obj : warning LNK4258: la directiva '/ENTRY:mainE4@0' no es compatible con el modificador '/ENTRY:mainE17'; se ha omitido
-E_5_Banco_.obj : warning LNK4258: la directiva '/ENTRY:mainE5@0' no es compatible con el modificador '/ENTRY:mainE17'; se ha omitido
-E_6_Becas_.obj : warning LNK4258: la directiva '/ENTRY:mainE6@0' no es compatible con el modificador '/ENTRY:mainE17'; se ha omitido
-E_7_BonoMensual_.obj : warning LNK4258: la directiva '/ENTRY:mainE7@0' no es compatible con el modificador '/ENTRY:mainE17'; se ha omitido
-E_9_BonoAntiguedad_.obj : warning LNK4258: la directiva '/ENTRY:mainE9@0' no es compatible con el modificador '/ENTRY:mainE17'; se ha omitido
-P_17_PromedioM_Salones_.obj : warning LNK4258: la directiva '/ENTRY:mainP17@0' no es compatible con el modificador '/ENTRY:mainE17'; se ha omitido
-Plantilla_ProgramaMASM.obj : warning LNK4258: la directiva '/ENTRY:main@0' no es compatible con el modificador '/ENTRY:mainE17'; se ha omitido
-P_10_Suma2Nums.obj : warning LNK4258: la directiva '/ENTRY:main10@0' no es compatible con el modificador '/ENTRY:mainE17'; se ha omitido
-P_11_ReadString.obj : warning LNK4258: la directiva '/ENTRY:main11@0' no es compatible con el modificador '/ENTRY:mainE17'; se ha omitido
-P_12_Nombres.obj : warning LNK4258: la directiva '/ENTRY:main12@0' no es compatible con el modificador '/ENTRY:mainE17'; se ha omitido
-P_13_MsgBox.obj : warning LNK4258: la directiva '/ENTRY:main13@0' no es compatible con el modificador '/ENTRY:mainE17'; se ha omitido
-P_14_MsgBoxV2.obj : warning LNK4258: la directiva '/ENTRY:main14@0' no es compatible con el modificador '/ENTRY:mainE17'; se ha omitido
-P_15_MsgBoxAsk.obj : warning LNK4258: la directiva '/ENTRY:main15@0' no es compatible con el modificador '/ENTRY:mainE17'; se ha omitido
-P_16_SumaConProc.obj : warning LNK4258: la directiva '/ENTRY:main16@0' no es compatible con el modificador '/ENTRY:mainE17'; se ha omitido
-E_18_Focos_.obj : warning LNK4258: la directiva '/ENTRY:mainE18@0' no es compatible con el modificador '/ENTRY:mainE17'; se ha omitido
-P_1_WriteChar.obj : warning LNK4258: la directiva '/ENTRY:main1@0' no es compatible con el modificador '/ENTRY:mainE17'; se ha omitido
-P_2_ReadChar.obj : warning LNK4258: la directiva '/ENTRY:main2@0' no es compatible con el modificador '/ENTRY:mainE17'; se ha omitido
-P_3_RandomRange.obj : warning LNK4258: la directiva '/ENTRY:main3@0' no es compatible con el modificador '/ENTRY:mainE17'; se ha omitido
-P_4_Loop.obj : warning LNK4258: la directiva '/ENTRY:main4@0' no es compatible con el modificador '/ENTRY:mainE17'; se ha omitido
-P_5_Randomize.obj : warning LNK4258: la directiva '/ENTRY:main5@0' no es compatible con el modificador '/ENTRY:mainE17'; se ha omitido
-P_6_WaitMSG.obj : warning LNK4258: la directiva '/ENTRY:main6@0' no es compatible con el modificador '/ENTRY:mainE17'; se ha omitido
-P_7_Delay.obj : warning LNK4258: la directiva '/ENTRY:main7@0' no es compatible con el modificador '/ENTRY:mainE17'; se ha omitido
-P_8_Loop2.obj : warning LNK4258: la directiva '/ENTRY:main8@0' no es compatible con el modificador '/ENTRY:mainE17'; se ha omitido
-P_9_IntroMacro.obj : warning LNK4258: la directiva '/ENTRY:main9@0' no es compatible con el modificador '/ENTRY:mainE17'; se ha omitido
+E_13_N_Cantidades_.obj : warning LNK4258: la directiva '/ENTRY:mainE13@0' no es compatible con el modificador '/ENTRY:mainE10'; se ha omitido
+E_14_Empresa_.obj : warning LNK4258: la directiva '/ENTRY:mainE14@0' no es compatible con el modificador '/ENTRY:mainE10'; se ha omitido
+E_10_AlumnosPasajes_.obj : warning LNK4258: la directiva '/ENTRY:mainE10@0' no es compatible con el modificador '/ENTRY:mainE10'; se ha omitido
+E_12_Ahorro_.obj : warning LNK4258: la directiva '/ENTRY:mainE12@0' no es compatible con el modificador '/ENTRY:mainE10'; se ha omitido
+E_11_Compras_.obj : warning LNK4258: la directiva '/ENTRY:mainE11@0' no es compatible con el modificador '/ENTRY:mainE10'; se ha omitido
+E_16_Profesor_.obj : warning LNK4258: la directiva '/ENTRY:mainE16@0' no es compatible con el modificador '/ENTRY:mainE10'; se ha omitido
+E_2_PromedioAlumnos_.obj : warning LNK4258: la directiva '/ENTRY:mainE2@0' no es compatible con el modificador '/ENTRY:mainE10'; se ha omitido
+E_17_ElNaufrago2_.obj : warning LNK4258: la directiva '/ENTRY:mainE17@0' no es compatible con el modificador '/ENTRY:mainE10'; se ha omitido
+E_1_MiNombre.obj : warning LNK4258: la directiva '/ENTRY:mainE1@0' no es compatible con el modificador '/ENTRY:mainE10'; se ha omitido
+E_3_ElNaufrago_.obj : warning LNK4258: la directiva '/ENTRY:mainE3@0' no es compatible con el modificador '/ENTRY:mainE10'; se ha omitido
+E_4_Consultorio_.obj : warning LNK4258: la directiva '/ENTRY:mainE4@0' no es compatible con el modificador '/ENTRY:mainE10'; se ha omitido
+E_5_Banco_.obj : warning LNK4258: la directiva '/ENTRY:mainE5@0' no es compatible con el modificador '/ENTRY:mainE10'; se ha omitido
+E_6_Becas_.obj : warning LNK4258: la directiva '/ENTRY:mainE6@0' no es compatible con el modificador '/ENTRY:mainE10'; se ha omitido
+E_7_BonoMensual_.obj : warning LNK4258: la directiva '/ENTRY:mainE7@0' no es compatible con el modificador '/ENTRY:mainE10'; se ha omitido
+E_9_BonoAntiguedad_.obj : warning LNK4258: la directiva '/ENTRY:mainE9@0' no es compatible con el modificador '/ENTRY:mainE10'; se ha omitido
+P_17_PromedioM_Salones_.obj : warning LNK4258: la directiva '/ENTRY:mainP17@0' no es compatible con el modificador '/ENTRY:mainE10'; se ha omitido
+Plantilla_ProgramaMASM.obj : warning LNK4258: la directiva '/ENTRY:main@0' no es compatible con el modificador '/ENTRY:mainE10'; se ha omitido
+P_10_Suma2Nums.obj : warning LNK4258: la directiva '/ENTRY:main10@0' no es compatible con el modificador '/ENTRY:mainE10'; se ha omitido
+P_11_ReadString.obj : warning LNK4258: la directiva '/ENTRY:main11@0' no es compatible con el modificador '/ENTRY:mainE10'; se ha omitido
+P_12_Nombres.obj : warning LNK4258: la directiva '/ENTRY:main12@0' no es compatible con el modificador '/ENTRY:mainE10'; se ha omitido
+P_13_MsgBox.obj : warning LNK4258: la directiva '/ENTRY:main13@0' no es compatible con el modificador '/ENTRY:mainE10'; se ha omitido
+P_14_MsgBoxV2.obj : warning LNK4258: la directiva '/ENTRY:main14@0' no es compatible con el modificador '/ENTRY:mainE10'; se ha omitido
+P_15_MsgBoxAsk.obj : warning LNK4258: la directiva '/ENTRY:main15@0' no es compatible con el modificador '/ENTRY:mainE10'; se ha omitido
+P_16_SumaConProc.obj : warning LNK4258: la directiva '/ENTRY:main16@0' no es compatible con el modificador '/ENTRY:mainE10'; se ha omitido
+E_18_Focos_.obj : warning LNK4258: la directiva '/ENTRY:mainE18@0' no es compatible con el modificador '/ENTRY:mainE10'; se ha omitido
+P_1_WriteChar.obj : warning LNK4258: la directiva '/ENTRY:main1@0' no es compatible con el modificador '/ENTRY:mainE10'; se ha omitido
+P_2_ReadChar.obj : warning LNK4258: la directiva '/ENTRY:main2@0' no es compatible con el modificador '/ENTRY:mainE10'; se ha omitido
+P_3_RandomRange.obj : warning LNK4258: la directiva '/ENTRY:main3@0' no es compatible con el modificador '/ENTRY:mainE10'; se ha omitido
+P_4_Loop.obj : warning LNK4258: la directiva '/ENTRY:main4@0' no es compatible con el modificador '/ENTRY:mainE10'; se ha omitido
+P_5_Randomize.obj : warning LNK4258: la directiva '/ENTRY:main5@0' no es compatible con el modificador '/ENTRY:mainE10'; se ha omitido
+P_6_WaitMSG.obj : warning LNK4258: la directiva '/ENTRY:main6@0' no es compatible con el modificador '/ENTRY:mainE10'; se ha omitido
+P_7_Delay.obj : warning LNK4258: la directiva '/ENTRY:main7@0' no es compatible con el modificador '/ENTRY:mainE10'; se ha omitido
+P_8_Loop2.obj : warning LNK4258: la directiva '/ENTRY:main8@0' no es compatible con el modificador '/ENTRY:mainE10'; se ha omitido
+P_9_IntroMacro.obj : warning LNK4258: la directiva '/ENTRY:main9@0' no es compatible con el modificador '/ENTRY:mainE10'; se ha omitido
   PM_U3_EQ_1.vcxproj -> C:\Users\Reyna\source\repos\PM_U3_EQ_1\Debug\PM_U3_EQ_1.exe
